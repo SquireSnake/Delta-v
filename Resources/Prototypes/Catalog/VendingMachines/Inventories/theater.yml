@@ -64,6 +64,8 @@
     ClothingUniformSwimsuitBlue: 2
     ClothingCostumeBunnySuit: 2
     ClothingHeadHatBunny: 2
+    ClothingOuterSuitGorilla: 2
+    ClothingMaskGorilla: 2
   emaggedInventory:
     ClothingShoesBling: 1
     ClothingOuterDogi: 1
