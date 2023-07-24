@@ -28,3 +28,14 @@
     sprite: Nyanotrasen/Clothing/Mask/mask_oni_red.rsi
   - type: Clothing
     sprite: Nyanotrasen/Clothing/Mask/mask_oni_red.rsi
+
+- type: entity
+  parent: ClothingMaskBase
+  id: ClothingMaskGorilla
+  name: gorilla mask
+  description: A mask of a gorilla costume, perfect to wear while eating bananas
+  components:
+  - type: Sprite
+    sprite: Resources/Textures/Clothing/Head/Hats/gorillamask.rsi
+  - type: Clothing
+    sprite: Resources/Textures/Clothing/Head/Hats/gorillamask.rsi
