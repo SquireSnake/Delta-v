@@ -193,14 +193,3 @@
     sprite: Nyanotrasen/Clothing/Head/Hats/beret_mysta.rsi
   - type: Clothing
     sprite: Nyanotrasen/Clothing/Head/Hats/beret_mysta.rsi
-
-- type: entity
-  parent: ClothingHeadBase
-  id: ClothingHeadHatGorilla
-  name: gorilla mask
-  description: A mask of a gorilla costume, perfect to wear while eating bananas
-  components:
-  - type: Sprite
-    sprite: Resources/Textures/Clothing/Head/Hats/gorillamask.rsi
-  - type: Clothing
-    sprite: Resources/Textures/Clothing/Head/Hats/gorillamask.rsi
