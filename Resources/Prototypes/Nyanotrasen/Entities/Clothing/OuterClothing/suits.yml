@@ -11,7 +11,7 @@
 
 - type: entity
   parent: ClothingOuterStorageBase
-  id: GorillaSuit
+  id: ClothingOuterSuitGorilla
   name: gorilla costume
   description: A thick gorilla costume, its muscles are made of thick padded foam.
   components:
