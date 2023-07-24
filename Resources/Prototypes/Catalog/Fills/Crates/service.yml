@@ -84,6 +84,8 @@
     - id: ClothingShoesClown
     - id: ClothingUniformJumpskirtJanimaid
     - id: RevolverCapGun
+    - id: ClothingMaskGorilla
+    - id: ClothingOuterSuitGorilla
 
 - type: entity
   id: CrateServiceCustomSmokable
