@@ -8,3 +8,22 @@
     sprite: Nyanotrasen/Clothing/OuterClothing/Suits/areopagite.rsi
   - type: Clothing
     sprite: Nyanotrasen/Clothing/OuterClothing/Suits/areopagite.rsi
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: GorillaSuit
+  name: gorilla costume
+  description: A thick gorilla costume, its muscles are made of thick padded foam.
+  components:
+  - type: Sprite
+    sprite: Resources/Textures/Clothing/OuterClothing/Suits/gorillasuit.rsi
+  - type: Clothing
+    sprite: Resources/Textures/Clothing/OuterClothing/Suits/gorillasuit.rsi
+  - type: TemperatureProtection
+    coefficient: 0.1
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Heat: 0.75
