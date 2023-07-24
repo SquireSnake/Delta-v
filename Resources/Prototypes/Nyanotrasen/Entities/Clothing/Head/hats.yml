@@ -196,7 +196,7 @@
 
 - type: entity
   parent: ClothingHeadBase
-  id: GorillaMask
+  id: ClothingHeadHatGorilla
   name: gorilla mask
   description: A mask of a gorilla costume, perfect to wear while eating bananas
   components:
